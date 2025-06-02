@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import logo from "@/public/jobwhee.png";
+import logo from "@/public/Jobwhee.png";
 const Logo = () => {
   return (
     <div className="flex justify-center items-center my-[13px] ml-[17px] ">
